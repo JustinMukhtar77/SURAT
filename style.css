@@ -1,0 +1,60 @@
+.logo{
+	width: 100px;
+	height: 100px;
+}.page {
+  width: 21cm;
+  min-height: 27.7cm;
+  padding: 2cm;
+  margin: 1cm auto;
+  border: 1px #D3D3D3 solid;
+  border-radius: 5px;
+  background: white;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}.cop {
+   font-family: 'arial';
+   font-size: 15px;
+   font-weight: bold;
+   height: 100px;
+   text-align: center;
+   padding-left: -80px;
+}.text-alamat{
+	font-family: 'arial';
+	font-size: 12px;
+	text-align: center;
+	height: 30px;
+}.text-surat{
+	font-family: 'arial';
+	text-align: center;
+	height: 50px;
+}.border{
+	 x
+}.pengantar-surat{
+	font-family: 'arial';
+	padding-left: 30px;
+	height: 80px;
+}.identitas-kematian{
+	font-family: 'arial';
+	padding-left: 30px;
+	height: 130px;
+}.identitas-keluar{
+	font-family: 'arial';
+	padding-left: 30px;
+	height: 370px;
+}.akhir{
+	font-family: 'arial';
+	padding-left: 30px;
+	height: 80px;
+}.text{
+	font-family: 'arial';
+	padding-left: 30px;
+
+}.space-col{
+	width: 40px;
+	text-align: center;
+}.space-logo{
+	width: 27px;
+}.rule{
+	font-family: 'arial';
+	padding-left: 30px;
+	height: 200px;
+}
